@@ -33,7 +33,7 @@ import re
 import glob
 import hashlib
 
-from cherrypy import cherrypy
+import cherrypy
 import subprocess
 from gi.repository import Notify
 from gi.repository import GLib
